@@ -1,0 +1,14 @@
+Список колонок в базе netflix.db:
+show_id
+type
+title
+director
+cast
+country
+date_added
+release_year
+rating
+duration
+duration_type
+listed_in
+description
